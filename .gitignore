@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# R output artifacts
+*.pdf
+*.png
+*.jpg
+*.xlsx
+Rplots*
+
+# Caches
+*.rda
+*.rds
